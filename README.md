@@ -1,7 +1,5 @@
 
-## Overview
-
-We release the PyTorch code of the <<Video Anomaly Detection with Spatio-Temporal Dissociation>>
+#  Video Anomaly Detection with Spatio-Temporal Dissociation
 
 
 ## Prerequisites
